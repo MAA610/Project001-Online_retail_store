@@ -3,5 +3,10 @@ This is an analysis for transactional data set which contains all the transactio
 
 # files
 The source file for the dataset comes from [UC Irvine machine learning repository](https://archive.ics.uci.edu/dataset/352/online+retail)  
-The final analysis is in project001.xlsx
+The final dashboard analysis can be found in project001.xlsx
 
+# Tools
+The following Excel skills were utilized for analysis:  
+- 📉 Charts
+- 🧮 Formulas and Functions
+- ❎ Data Validation
