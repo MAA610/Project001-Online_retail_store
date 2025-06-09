@@ -35,7 +35,7 @@ Using the pivot tables created in the previos step, the following visualizations
    
 2. Sales per country and international presence  
    ![image](https://github.com/user-attachments/assets/68be847a-06bd-4ea7-a910-a19d3c8573d7)
-   ![image](https://github.com/user-attachments/assets/8ba2efc3-b909-4a8f-a9fd-811fbd51a91e)
+   ![image](https://github.com/user-attachments/assets/8ba2efc3-b909-4a8f-a9fd-811fbd51a91e)  
    a pie chart and amap to visualise sales per country and the disrribution of serviced countries.
 
 3. customers per country
@@ -49,5 +49,13 @@ Using the pivot tables created in the previos step, the following visualizations
 
 
 # Analysis
+- the united kingdom sales kept increasing each quarter, with the highest increases in Q1 nad Q4 of 2011.
+As per international sales, They almost flattened during the entire year of 2011.  
+- for all quarters, the united kingdom is the main source of revenue with at least 75% of sales, this gives the company a huge untapped international market.
+- Most of company sales come from west Eurpoe and north America, with a scattered presence in Asia, Africa and South America.
+- Most invoices were issued in the UK, which aligns with sales data.
+
+
 
 # Conclusion
+I created this dashboard to showcase insights into sales data across time and region. This dashboard allows stakeholders to make informed decisions about the next steps for the company expansion.
