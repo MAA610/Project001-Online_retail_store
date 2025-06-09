@@ -1,5 +1,6 @@
 # Project001-Online_retail_store
 This is an analysis for transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+![image](https://github.com/user-attachments/assets/1423cf26-01d8-46a5-8da6-0931da45fbcd)
 
 # files
 - The source file for the dataset comes from [UC Irvine machine learning repository](https://archive.ics.uci.edu/dataset/352/online+retail)  
