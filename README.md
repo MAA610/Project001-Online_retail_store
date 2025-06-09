@@ -29,7 +29,23 @@ The following tables were created to help analyse the dataset using excel's pivo
 ## Visualizations
 Using the pivot tables created in the previos step, the following visualizations were created:
 1. Sales per quarter
+     
    ![image](https://github.com/user-attachments/assets/c8784d8b-69f4-459e-840e-d6dfe5944321)
+   an interactive line chart created with a country slicer.
+   
+2. Sales per country and international presence  
+   ![image](https://github.com/user-attachments/assets/68be847a-06bd-4ea7-a910-a19d3c8573d7)
+   ![image](https://github.com/user-attachments/assets/8ba2efc3-b909-4a8f-a9fd-811fbd51a91e)
+   a pie chart and amap to visualise sales per country and the disrribution of serviced countries.
+
+3. customers per country
+   ![image](https://github.com/user-attachments/assets/d8beaa51-f497-49e3-a20d-9659fd3eb9c4)
+   a horizontal bar graph showing the number of cutomers per country
+
+5. Invoices per country
+   ![image](https://github.com/user-attachments/assets/fc47eb1e-386b-44e0-9e5d-2f710e19a997)
+   ![image](https://github.com/user-attachments/assets/b72d358b-9746-474b-8c97-09f0a5718d1d)
+   a horizontal bar graph and a line chart representing the distribution of ivvoices per country, along with a date slicer.
 
 
 # Analysis
